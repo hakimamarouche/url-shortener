@@ -7,7 +7,7 @@ A minimal URL shortener built with Spring Boot, JPA, and H2. It exposes a REST A
 - No need to install Gradle; the project includes the Gradle Wrapper.
 
 ### Run (development)
-- Windows PowerShell (recommended on your machine):
+- Windows PowerShell:
 
 ```bash
 .\gradlew.bat bootRun
